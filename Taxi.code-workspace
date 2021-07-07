@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Taxi",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Uber_step_4"
+	}
+}
